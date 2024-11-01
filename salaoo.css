@@ -10,12 +10,12 @@
 
 body
 {
-    background-color: #DAA520;
+    background-color: #a9d0df;
 }
 
 .ddiv
 {
-    background-color: gray;
+    background-color: rgb(129, 225, 163);
     height: 0 auto;
     width: 1200px;
     margin-left: 350px;
@@ -37,9 +37,9 @@ body
 
 .b {
     background-position: left;
-    background-color: midnightblue;
+    background-color: rgb(211, 78, 180);
     width: 135px;
     height: 30px;
     margin-left: 40px;
-    color: #fefffe;
+    color: #e5636e;
 }
